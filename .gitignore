@@ -250,5 +250,9 @@ $RECYCLE.BIN/
 # Folders
 older_work/
 CA1/mnist_data/
+CA2/mnist_data/
+
+# Files
+CA2/Fashion_MNIST.h5
 
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,windows,linux
