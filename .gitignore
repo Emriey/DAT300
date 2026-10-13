@@ -251,6 +251,7 @@ $RECYCLE.BIN/
 older_work/
 CA1/mnist_data/
 CA2/mnist_data/
+CA2/fashion_mnist_tuner_dir
 
 # Files
 CA2/Fashion_MNIST.h5
